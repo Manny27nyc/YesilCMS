@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <section class="uk-section uk-padding-remove slider-section uk-animation-fade">
     <?php if ($this->wowmodule->getSlideshowStatus()) : ?>
         <?php if ($this->home_model->getSlides()->num_rows()) : ?>

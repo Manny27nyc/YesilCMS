@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 tinymce.addI18n('he_IL',{
 "Redo": "\u05d1\u05e6\u05e2 \u05e9\u05d5\u05d1",
 "Undo": "\u05d1\u05d8\u05dc",

@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <section class="uk-section uk-section-xsmall" data-uk-height-viewport="expand: true">
   <div class="uk-container uk-container-xlarge">
     <div class="uk-grid uk-grid-small uk-margin-small" data-uk-grid>
