@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('fa_IR',{
 "Redo": "\u0628\u0627\u0632\u0627\u0646\u062c\u0627\u0645",
 "Undo": "\u0648\u0627\u06af\u0631\u062f",

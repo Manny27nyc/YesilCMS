@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('he_IL',{
 "Redo": "\u05d1\u05e6\u05e2 \u05e9\u05d5\u05d1",
 "Undo": "\u05d1\u05d8\u05dc",

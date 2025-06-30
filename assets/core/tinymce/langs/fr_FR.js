@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('fr_FR',{
 "Redo": "R\u00e9tablir",
 "Undo": "Annuler",

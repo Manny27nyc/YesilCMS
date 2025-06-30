@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('uk',{
 "Redo": "\u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0438",
 "Undo": "\u0421\u043a\u0430\u0441\u0443\u0432\u0430\u0442\u0438",

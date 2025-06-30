@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('sl_SI',{
 "Redo": "Ponovno uveljavi",
 "Undo": "Razveljavi",

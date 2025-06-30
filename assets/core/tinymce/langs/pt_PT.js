@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('pt_PT',{
 "Redo": "Refazer",
 "Undo": "Anular",

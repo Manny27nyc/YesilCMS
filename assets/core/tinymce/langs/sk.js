@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('sk',{
 "Redo": "Znova",
 "Undo": "Sp\u00e4\u0165",

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('kk',{
 "Redo": "\u049a\u0430\u0439\u0442\u0430\u0440\u0443",
 "Undo": "\u0411\u043e\u043b\u0434\u044b\u0440\u043c\u0430\u0443",

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 if (!window.WH) {
     window.WH = {};
     window.WH.debug = function (...args) {

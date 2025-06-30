@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('lt',{
 "Redo": "Gr\u0105\u017einti",
 "Undo": "Atstatyti",

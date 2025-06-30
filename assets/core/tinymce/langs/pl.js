@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('pl',{
 "Redo": "Powt\u00f3rz",
 "Undo": "Cofnij",

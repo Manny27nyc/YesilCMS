@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('ja',{
 "Redo": "\u3084\u308a\u76f4\u3057",
 "Undo": "\u5143\u306b\u623b\u3059",

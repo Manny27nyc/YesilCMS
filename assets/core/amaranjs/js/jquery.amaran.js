@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 (function() {
   (function($, window, document, undefined_) {
     var Plugin, themes;

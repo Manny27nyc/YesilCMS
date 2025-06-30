@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // NOTE: Source: npm package: emojilib, file:emojis.json
 window.tinymce.Resource.add("tinymce.plugins.emoticons", {
   grinning: {

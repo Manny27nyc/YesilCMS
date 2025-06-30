@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('hr',{
 "Redo": "Ponovi",
 "Undo": "Poni\u0161ti",

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('nb_NO',{
 "Redo": "Gj\u00f8r om",
 "Undo": "Angre",

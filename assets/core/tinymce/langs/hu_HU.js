@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('hu_HU',{
 "Redo": "Ism\u00e9t",
 "Undo": "Visszavon\u00e1s",

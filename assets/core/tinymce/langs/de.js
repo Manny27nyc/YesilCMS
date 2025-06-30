@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('de',{
 "Redo": "Wiederholen",
 "Undo": "R\u00fcckg\u00e4ngig machen",

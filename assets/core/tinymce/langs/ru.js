@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('ru',{
 "Redo": "\u0412\u0435\u0440\u043d\u0443\u0442\u044c",
 "Undo": "\u041e\u0442\u043c\u0435\u043d\u0438\u0442\u044c",

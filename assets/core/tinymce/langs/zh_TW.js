@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('zh_TW',{
 "Redo": "\u91cd\u505a",
 "Undo": "\u64a4\u92b7",

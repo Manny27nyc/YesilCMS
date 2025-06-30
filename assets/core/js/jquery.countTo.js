@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 (function (factory) {
     if (typeof define === 'function' && define.amd) {
         // AMD

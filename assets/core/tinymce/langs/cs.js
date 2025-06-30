@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('cs',{
 "Redo": "Opakovat",
 "Undo": "Zp\u011bt",

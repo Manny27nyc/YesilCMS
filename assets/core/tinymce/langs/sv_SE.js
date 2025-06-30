@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 tinymce.addI18n('sv_SE',{
 "Redo": "G\u00f6r om",
 "Undo": "\u00c5ngra",
